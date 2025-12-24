@@ -14,8 +14,6 @@ Notes
 2. **Uptime:** The site is currently running on a VPS, but in the future I may stop paying for the server. If that happens, this URL may become unavailable. Sorry for the inconvenience.
 ---
 
-
-
 ## What It Does
 
 Image to 3D Converter uses deep learning to transform ordinary photos into 3D models. Upload an image, and AI analyzes depth and structure to generate a downloadable 3D model.
@@ -24,6 +22,8 @@ Image to 3D Converter uses deep learning to transform ordinary photos into 3D mo
 - **AI Depth Analysis** — Neural network estimates depth from 2D image
 - **Real-time Preview** — Rotate and explore your 3D model in browser
 - **Instant Download** — Export as GLB format for Blender, Unity, or web
+
+<img width="1132" height="716" alt="Ant-Example" src="https://github.com/user-attachments/assets/c72c689c-8bb2-409c-94a0-e506e1d9f081" />
 
 ---
 
@@ -140,6 +140,7 @@ image-to-3d/
 ---
 
 ## License
+
 
 
 
