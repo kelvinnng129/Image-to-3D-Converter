@@ -2,9 +2,21 @@
 
 Transform any 2D image into a 3D model in seconds.
 
+## Try Here 
+
+https://kelvinnng129.duckdns.org/3d/
+
+## Notes
+
+1. **VPS performance:** When using this URL, uploads and generation may take longer than usual. Please be patient, and sorry for the delay.
+2. **Uptime:** The site is currently running on a VPS, but in the future I may stop paying for the server. If that happens, this URL may become unavailable. Sorry for the inconvenience.
+---
+
+
 https://github.com/user-attachments/assets/789f8633-9e71-40a8-b4e8-8d91cec9c3d7
 
 ---
+
 
 ## What It Does
 
@@ -130,6 +142,7 @@ image-to-3d/
 ---
 
 ## License
+
 
 
 
