@@ -20,7 +20,7 @@ export default function Header({ onReset }) {
           <a href="#" className="hover:text-black transition-colors">How it works</a>
           <a href="#" className="hover:text-black transition-colors">API</a>
           <a 
-            href="https://github.com/kelvinng129" 
+            href="https://github.com/kelvinnng129" 
             target="_blank" 
             rel="noreferrer" 
             className="text-gray-400 hover:text-black transition-colors"
